@@ -8,7 +8,7 @@ Thank you for your interest in contributing to Cookie-JAR! We welcome contributi
 
 2. **Clone Your Fork**: 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Cookie-JAR.git
+   git clone https://github.com/nahom-network/Cookie-JAR.git
    cd Cookie-JAR
    ```
 
